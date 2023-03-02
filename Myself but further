@@ -1,0 +1,68 @@
+<title>frontend dev.</title>
+<h1 id="top">
+   <b>Adnan Burak Gokcek</b> 
+   <a href="https:burakgokcek.myportfolio.com">
+       <div> <img src="images/2.jpg" alt="Burak Gokcek" title="Burak Gökcek" border="1" height="300" >
+     
+        </div>
+    </a>
+    <hr>     
+    <button>
+        
+        <a href="https://burakgokcek.myportfolio.com" target="_blank" <b><h3>Portfolio</h3></b>
+        </a>
+    </button>
+    <br>
+        <a href="iletisim.html"> 
+            iletisim
+        </a>
+    <br><a href="mailto:burakgkcek@gmail.com">
+        mail
+    </a>
+    <br><a href="tel:+905372516743">
+        telefon
+    </a>
+</h1>
+<h2 style="font-size: 24;">About Me</h2>
+    <b><p style="font-size: 16;">Hi there!</p></b>
+   <p> I am A. Burak Gokcek, a Junior <span style="color: rgba(46, 34, 216, 0.615);" ><i>Product designer. </i></span> . I am a <span style="font-size: 25;"> Hard working </span> and dedicated person with problem-solving and design execution skills.</p>
+   <p>I love to consider new/innovative ways of "interactions" and experiences for users and customers.</p> 
+   <p>I am deeply committed myself to a future creative environment. I love observing human behavior and creating products through data, research, and psychology.</p> 
+   <hr>
+
+<h4>Hobbies</h4>
+    <ol> <!-- hobi listelemesi burda başlar-->
+        <li>Snowboarding, 
+        <li>Surfing</li> 
+        <li>Riding</li>
+        <li>and so much more.</li>
+            <ul>
+                <li>Snowboarding, 
+                <li>Surfing</li> 
+                <li>Riding</li>
+                <li>and so much more.</li>
+            </ul>        
+    </ol>   
+   <hr>
+    <ol>
+        <h3>Kitaplar</h3>
+        <a href="https://www.goodreads.com/tr/book/show/8399007">
+            <ul>Olasiliksiz</ul>
+        </a>
+        <ul>Pur Dikkat</ul>
+        <ul>Gundelik Seylerin Tasarimi</ul>
+    </ol>
+    <ol>
+        <h3>Filmler</h3>
+        <a href="https://www.imdb.com/title/tt0816692/">
+            <ul>Interstellar</ul>
+        </a>
+        <ul>Sherlock Holmes</ul>
+        <ul>Iron Man</ul>
+    </ol>
+    <ol>
+        <h3>Diziler</h3>
+        <ul>The Walkind Dead</ul>
+        <ul>True Detective</ul>
+        <ul>Dark</ul>
+    </ol>
